@@ -1,0 +1,3 @@
+- Projects such as the 3DMoleculeVisualizer require a jupyter notebook in order to actually render the image
+- For some foolish reason GitHub does not render py3Dmol outputs, so I can't give an example of the interactive image besides the video
+- Im still learning how to code 
